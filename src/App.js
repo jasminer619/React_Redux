@@ -36,11 +36,8 @@ function App() {
            <i class="fas fa-heart" onClick ={() => setCount(count + 1)}></i>
       </div> 
         <br/>
-            <a href="https://www.twitter.com" target="_blank">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a href="https://www.linkedin.com" target="_blank">
-              <i class="fab fa-linkedin-in"></i>
+            <a href="https://github.com/jasminer619" target="_blank">
+            <i class="fab fa-github"></i>
             </a>
       </div>
     </main>
