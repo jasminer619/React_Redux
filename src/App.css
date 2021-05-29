@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #EE817C;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.card {
+  width: 350px;
+  height: 400px;
+  background: white;
+  text-align: center;
+}
+
+.card img {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  margin-top: 18px;
+}
+
+.card p {
+  font-size: 20px;
+  padding: 0;
+}
+
+button {
+  width: 90px;
+  height: 45px;
+  border-radius: 13px;
+  border: 5px solid white;
+  background-color: #EFEFEF;
+}
+
+button:hover {
+  background-color: pink;
+}
+
+.btns {
+  margin-top: 2%;
+}
+
+.likes {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.fas {
+  color: red;
+  margin-left: 5px;
+}
+
+.fab {
+  color: #2A64F6;
+  margin-left: 5px;
+}
+
+
